@@ -8,7 +8,7 @@ setup(
   packages=['exaroton.py'],
   version = '1.0.0',
   license='MIT',
-  description = 'API wrapper for exaroton',
+  description = 'Python API wrapper for exaroton',
   author = 'Joshua',
   author_email = 'bluewyechache@gmail.com',
   url = 'https://github.com/BluewyDev/python-exaroton-api/',
