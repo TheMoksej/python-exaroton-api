@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
   long_description = fh.read()
 
 setup(
-  name = 'exaroton',
-  packages=['exaroton'],
+  name = 'exaroton.py',
+  packages=['exaroton.py'],
   version = '1.0.0',
   license='MIT',
   description = 'API wrapper for exaroton',
